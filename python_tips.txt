@@ -1,0 +1,63 @@
+How to assign a value to a variable:
+
+All you do is type name= ,name is the name of the variableand it can be anything like firstName then you type what you want the 
+value to belike Abdullah.pulat (my first name)it can also be numbers.
+If you want to see the value ofthe variable you type print (name).
+example:
+
+name="FUN"
+print (name)
+
+then it will show the value of the variable.
+(this is still part of the example above)
+example:
+
+FUN
+
+If your making a game on python this would be a good tip.
+If you want to do his hp(health) ,let's say the characture had 200 hp you would type hp=200 it is same with aggilty,shield,accurasy
+and damage.
+
+if you want to write spaces you can't but you can use cases.
+Cases:
+
+camelCaseVariableName
+
+kebab-case-variable-name
+
+PascalCaseVariableName
+
+snake_case_variable_name
+
+Rules about variables:
+
+1.Do not start with a number 
+
+2.Follow same styling
+
+3.Be descriptive
+
+4.Cannot have spaces
+
+How to make a sentance with different lines:
+
+You write words every time you want a different line you type \n
+example:
+
+
+print("Dear_Famally\nhappy_valentines\nLove\nAbdullah")
+
+and you press the enter key and thats it.
+
+Division sign in python: /
+
+example:
+
+print(4/2)
+
+
+Multiplucation sign in python: *
+
+example: 
+
+print(2*4)
